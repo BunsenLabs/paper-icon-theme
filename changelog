@@ -1,3 +1,10 @@
+paper-icon-theme (1.4+r690~daily~bunsen) helium; urgency=medium
+
+  * Non-maintainer upload.
+  * Version and suite for BunsenLabs - source unchanged.
+
+ -- John Crawley <john@bunsenlabs.org>  Mon, 07 Aug 2017 14:54:55 +0900
+
 paper-icon-theme (1.4+r690~daily~ubuntu16.04.1) xenial; urgency=low
 
   * Auto build.
