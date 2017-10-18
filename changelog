@@ -1,3 +1,10 @@
+paper-icon-theme (1.4+r690-git-c153195~bunsen) helium; urgency=medium
+
+  * Non-maintainer upload.
+  * Update from git commit c153195
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 18 Oct 2017 18:11:17 +0900
+
 paper-icon-theme (1.4+r690~daily~bunsen) helium; urgency=medium
 
   * Non-maintainer upload.
