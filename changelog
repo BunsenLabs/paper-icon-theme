@@ -1,3 +1,8 @@
+paper-icon-theme (1.4+r696~daily~ubuntu16.04.1) xenial; urgency=low
+  * Auto build.
+
+ -- Sam Hewitt <snwh@ubuntu.com>  Sun, 25 Feb 2018 19:32:12 +0000
+
 paper-icon-theme (1.4+r690-git-c153195~bunsen) helium; urgency=medium
 
   * Non-maintainer upload.
