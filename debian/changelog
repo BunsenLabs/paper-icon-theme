@@ -1,3 +1,10 @@
+paper-icon-theme (1.4+r696.d2476a62-2) helium; urgency=medium
+
+  * Non-maintainer upload.
+  * Change source format to 3.0 (quilt) → non-native
+
+ -- Jens John <dev@2ion.de>  Thu, 05 Apr 2018 22:37:56 +0200
+
 paper-icon-theme (1.4+r696.d2476a62-1) helium; urgency=medium
 
   * Non-maintainer upload.
