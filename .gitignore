@@ -1,0 +1,5 @@
+﻿debian/paper-icon-theme
+debian/paper-icon-theme
+debian/tmp
+debhelper*
+.debhelper
