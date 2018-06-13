@@ -1,5 +1,8 @@
-﻿debian/paper-icon-theme
+﻿debian/.debhelper
+debian/debhelper-build-stamp
 debian/paper-icon-theme
+debian/paper-icon-theme.debhelper.log
+debian/paper-icon-theme.postinst.debhelper
+debian/paper-icon-theme.postrm.debhelper
+debian/paper-icon-theme.substvars
 debian/tmp
-debhelper*
-.debhelper
