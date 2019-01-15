@@ -1,0 +1,16 @@
+Source: paper-icon-theme
+Section: gnome
+Priority: optional
+Maintainer: Sam Hewitt <sam@snwh.org>
+Build-Depends: debhelper
+Standards-Version: 4.1.1
+Homepage: https://github.com/snwh/paper-icon-theme
+
+Package: paper-icon-theme
+Architecture: all
+Depends: hicolor-icon-theme, ${misc:Depends}
+Description: Paper Icon Theme
+ Paper is simple and modern icon theme with material design influences.
+ .
+ This package not only contains the Paper icon theme but also the Paper 
+ cursor theme, which is a complementary X11 cursor set.
