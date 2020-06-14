@@ -1,3 +1,10 @@
+paper-icon-theme (1.5.728+bunsen1-1) lithium; urgency=medium
+
+  * Non-maintainer upload.
+  * Build from GitHub aa3e8af for BunsenLabs Lithium.
+
+ -- John Crawley <john@bunsenlabs.org>  Sun, 14 Jun 2020 15:04:50 +0900
+
 paper-icon-theme (1.5.721~bunsen1-1) lithium; urgency=medium
 
   * Non-maintainer upload.
